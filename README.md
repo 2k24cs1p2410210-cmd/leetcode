@@ -25,8 +25,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1814-count-nice-pairs-in-an-array](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/1814-count-nice-pairs-in-an-array/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1814-count-nice-pairs-in-an-array](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/1814-count-nice-pairs-in-an-array/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 <!---LeetCode Topics End-->
