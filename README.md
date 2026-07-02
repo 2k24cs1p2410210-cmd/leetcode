@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0382-linked-list-random-node](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0382-linked-list-random-node/) | Medium |
 | [1814-count-nice-pairs-in-an-array](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/1814-count-nice-pairs-in-an-array/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Counting
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0328-odd-even-linked-list/) | Medium |
+| [0382-linked-list-random-node](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0382-linked-list-random-node/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Two Pointers
@@ -65,4 +67,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+## Reservoir Sampling
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0382-linked-list-random-node](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0382-linked-list-random-node/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0382-linked-list-random-node](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0382-linked-list-random-node/) | Medium |
 <!---LeetCode Topics End-->
