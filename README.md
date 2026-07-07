@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0823-binary-trees-with-factors](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0823-binary-trees-with-factors/) | Medium |
 | [0846-hand-of-straights](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0846-hand-of-straights/) | Medium |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0823-binary-trees-with-factors](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0823-binary-trees-with-factors/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -64,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0142-linked-list-cycle-ii](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -75,4 +78,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0382-linked-list-random-node](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0382-linked-list-random-node/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
