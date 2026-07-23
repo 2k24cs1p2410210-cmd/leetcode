@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+| [0622-design-circular-queue](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0622-design-circular-queue) |
 | [0823-binary-trees-with-factors](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0823-binary-trees-with-factors/) | Medium |
 | [0846-hand-of-straights](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0846-hand-of-straights/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0946-validate-stack-sequences/) | Medium |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0237-delete-node-in-a-linked-list](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0328-odd-even-linked-list/) | Medium |
 | [0382-linked-list-random-node](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0382-linked-list-random-node/) | Medium |
+| [0622-design-circular-queue](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -170,4 +172,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
