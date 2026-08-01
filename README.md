@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+| [0486-predict-the-winner](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0486-predict-the-winner) |
 | [0622-design-circular-queue](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0622-design-circular-queue) |
 | [0823-binary-trees-with-factors](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0823-binary-trees-with-factors/) | Medium |
 | [0846-hand-of-straights](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0846-hand-of-straights/) | Medium |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+| [0486-predict-the-winner](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0486-predict-the-winner) |
 | [0823-binary-trees-with-factors](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0823-binary-trees-with-factors/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 ## Sorting
@@ -56,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0382-linked-list-random-node/) | Medium |
+| [0486-predict-the-winner](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0486-predict-the-winner) |
 | [1352-product-of-the-last-k-numbers](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -164,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0024-swap-nodes-in-pairs/) | Medium |
+| [0486-predict-the-winner](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0486-predict-the-winner) |
 ## Number Theory
 |  |
 | ------- |
@@ -228,4 +232,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0199-binary-tree-right-side-view) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
