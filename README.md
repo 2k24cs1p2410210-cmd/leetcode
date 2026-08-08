@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0486-predict-the-winner](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0486-predict-the-winner) |
 | [0823-binary-trees-with-factors](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0823-binary-trees-with-factors/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 ## Sorting
 |  |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Greedy
@@ -96,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0846-hand-of-straights](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0846-hand-of-straights/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Linked List
 |  |
 | ------- |
@@ -121,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-middle-of-the-linked-list](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Reservoir Sampling
 |  |
