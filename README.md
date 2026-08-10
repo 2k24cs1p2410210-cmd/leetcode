@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+| [0144-binary-tree-preorder-traversal](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0946-validate-stack-sequences](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0946-validate-stack-sequences/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Search Tree
 |  |
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0199-binary-tree-right-side-view) |
 ## Heap (Priority Queue)
 |  |
@@ -241,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
