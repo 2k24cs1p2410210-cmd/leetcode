@@ -173,12 +173,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0897-increasing-order-search-tree](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [3312-sorted-gcd-pair-queries](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 ## Binary Tree
@@ -190,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Heap (Priority Queue)
@@ -272,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Breadth-First Search
