@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0846-hand-of-straights](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0846-hand-of-straights/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0897-increasing-order-search-tree) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -195,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0897-increasing-order-search-tree) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -278,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0897-increasing-order-search-tree) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
