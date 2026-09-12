@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
@@ -204,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
@@ -296,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0199-binary-tree-right-side-view) |
