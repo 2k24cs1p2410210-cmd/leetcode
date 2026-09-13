@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0622-design-circular-queue](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0622-design-circular-queue) |
 | [0823-binary-trees-with-factors](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0823-binary-trees-with-factors/) | Medium |
+| [0835-image-overlap](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0835-image-overlap) |
 | [0846-hand-of-straights](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0846-hand-of-straights/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0946-validate-stack-sequences/) | Medium |
 | [1140-stone-game-ii](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1140-stone-game-ii) |
@@ -280,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 ## Design
 |  |
