@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0823-binary-trees-with-factors](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0823-binary-trees-with-factors/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0968-binary-tree-cameras) |
 | [1140-stone-game-ii](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1140-stone-game-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1872-stone-game-viii](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -269,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Prefix Sum
@@ -276,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1140-stone-game-ii](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1140-stone-game-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 ## Matrix
