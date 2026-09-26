@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0835-image-overlap](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0835-image-overlap) |
 | [0846-hand-of-straights](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0846-hand-of-straights/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0946-validate-stack-sequences/) | Medium |
+| [0990-satisfiability-of-equality-equations](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1140-stone-game-ii](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0990-satisfiability-of-equality-equations](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -405,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0547-number-of-provinces](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0990-satisfiability-of-equality-equations](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 ## Graph Theory
 |  |
 | ------- |
@@ -412,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0990-satisfiability-of-equality-equations](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 ## Topological Sort
 |  |
 | ------- |
