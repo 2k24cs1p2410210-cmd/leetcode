@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3513-number-of-unique-xor-triplets-i](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3898-find-the-degree-of-each-vertex](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0835-image-overlap](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
+| [3898-find-the-degree-of-each-vertex](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Design
 |  |
 | ------- |
@@ -420,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0785-is-graph-bipartite](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Topological Sort
 |  |
 | ------- |
