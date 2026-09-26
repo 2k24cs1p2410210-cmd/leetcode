@@ -347,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0669-trim-a-binary-search-tree](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [0785-is-graph-bipartite](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0897-increasing-order-search-tree](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -367,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0785-is-graph-bipartite](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0785-is-graph-bipartite) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Game Theory
 |  |
@@ -402,12 +404,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
@@ -417,4 +421,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0207-course-schedule) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
