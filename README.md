@@ -390,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0175-combine-two-tables) |
+| [0584-find-customer-referee](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Minimax
 |  |
