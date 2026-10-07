@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0067-add-binary) |
+| [0301-remove-invalid-parentheses](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0990-satisfiability-of-equality-equations](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -378,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0404-sum-of-left-leaves](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0617-merge-two-binary-trees) |
@@ -461,4 +463,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0678-valid-parenthesis-string) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
