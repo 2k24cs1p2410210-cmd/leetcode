@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1260-shift-2d-grid](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1352-product-of-the-last-k-numbers](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/1814-count-nice-pairs-in-an-array/) | Medium |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0823-binary-trees-with-factors](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0823-binary-trees-with-factors/) | Medium |
 | [0846-hand-of-straights](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0846-hand-of-straights/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -165,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -239,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0669-trim-a-binary-search-tree](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 ## Binary Tree
 |  |
