@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1872-stone-game-viii](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -275,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
+| [1882-process-tasks-using-servers](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1882-process-tasks-using-servers) |
 ## Merge Sort
 |  |
 | ------- |
