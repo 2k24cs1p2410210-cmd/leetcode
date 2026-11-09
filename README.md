@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0990-satisfiability-of-equality-equations](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1140-stone-game-ii](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1352-product-of-the-last-k-numbers](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1267-count-servers-that-communicate](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1814-count-nice-pairs-in-an-array](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/1814-count-nice-pairs-in-an-array/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -325,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0835-image-overlap](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Design
 |  |
@@ -378,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0897-increasing-order-search-tree](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1382-balance-a-binary-search-tree](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -398,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0785-is-graph-bipartite](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0785-is-graph-bipartite) |
+| [1267-count-servers-that-communicate](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Game Theory
@@ -445,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
+| [1267-count-servers-that-communicate](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Graph Theory
 |  |
