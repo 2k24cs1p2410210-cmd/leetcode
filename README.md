@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0486-predict-the-winner](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0823-binary-trees-with-factors](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0823-binary-trees-with-factors/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0968-binary-tree-cameras) |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0067-add-binary) |
 | [0382-linked-list-random-node](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0382-linked-list-random-node/) | Medium |
 | [0486-predict-the-winner](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0509-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1140-stone-game-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/main/LeetCode/Medium/0024-swap-nodes-in-pairs/) | Medium |
 | [0486-predict-the-winner](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0509-fibonacci-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -492,4 +495,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/2k24cs1p2410210-cmd/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
